@@ -26,3 +26,34 @@ This dashboard enables users to explore NBA data in a structured and visually en
 ---
 
 ## 📁 Project Structure
+NBA-Dashboard/
+│── Dashboard.pbix
+│── README.md
+│── Dataset/ (optional)
+
+
+---
+
+## 📌 Key Insights
+- Identifies high-performing teams based on win ratios  
+- Highlights consistent and efficient players  
+- Reveals performance trends across seasons  
+
+---
+
+## ▶️ How to Use
+1. Download the `.pbix` file  
+2. Open in Power BI Desktop  
+3. Use filters to explore the dashboard  
+
+---
+
+## 💡 Future Improvements
+- Add advanced metrics (PER, True Shooting %)  
+- Integrate real-time data  
+- Improve UI/UX for storytelling  
+
+---
+
+## 🤝 Contributing
+Feel free to fork, raise issues, or suggest improvements.
