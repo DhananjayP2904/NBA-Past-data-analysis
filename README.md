@@ -26,10 +26,12 @@ This dashboard enables users to explore NBA data in a structured and visually en
 ---
 
 ## 📁 Project Structure
-NBA-Dashboard/
+NBA-Past-data-analysis/
+
 │── Dashboard.pbix
+
 │── README.md
-│── Dataset/ (optional)
+
 
 
 ---
