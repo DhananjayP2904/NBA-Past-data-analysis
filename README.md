@@ -7,14 +7,23 @@ Project Overview
 This dashboard enables users to explore NBA data in a structured and visually engaging way. It is designed to support data-driven insights for performance analysis across teams and players.
 
 Features
+
 Performance Trends – Analyze scoring and performance over time
+
 Team Comparison – Compare teams based on wins, losses, and key stats
+
 Player Insights – Evaluate individual player efficiency and contributions
+
 Interactive Filters – Drill down by team, player, and season
+
 Dynamic Visuals – Clean and intuitive charts for better understanding
+
 Tools & Technologies
+
 Power BI – Dashboard development & visualization
+
 Data Cleaning – Structured and transformed raw datasets
+
 Data Analysis – Trend identification and performance metrics
 📁 Project Structure
 📂 NBA-Past-data-analysis
